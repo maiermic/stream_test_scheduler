@@ -3,8 +3,6 @@
 
 library stream_test_scheduler.example;
 
-import 'dart:async';
-
 import 'package:stream_ext/stream_ext.dart';
 import 'package:stream_test_scheduler/stream_test_scheduler.dart';
 import 'package:test/test.dart';
