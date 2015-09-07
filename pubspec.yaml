@@ -1,5 +1,5 @@
 name: stream_test_scheduler
-description: A starting point for Dart libraries or applications.
+description: Test if a stream emits elements at a certain time (window).
 version: 0.2.0
 author: Michael Maier <maier1michael@gmail.com>
 homepage: https://github.com/maiermic/stream_test_scheduler
