@@ -5,7 +5,7 @@ library stream_test_scheduler.record_aux;
 
 import 'package:stream_test_scheduler/src/record.dart';
 
-onNext(int ticks, int value) => new OnNextRecord(ms(ticks), value);
+onNext(int ticks, value) => new OnNextRecord(ms(ticks), value);
 
 onCompleted(int ticks) => new OnCompletedRecord(ms(ticks));
 
