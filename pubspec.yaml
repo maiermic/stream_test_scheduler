@@ -1,6 +1,6 @@
 name: stream_test_scheduler
 description: Test if a stream emits elements at a certain time (window).
-version: 0.2.0
+version: 0.3.0
 author: Michael Maier <maier1michael@gmail.com>
 homepage: https://github.com/maiermic/stream_test_scheduler
 
